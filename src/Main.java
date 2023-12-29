@@ -3,5 +3,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("NUke");
         System.out.println("NUke");
+        ewrjhfgepoji
+        fdgdfgdf
+        gdfgdgdfg
+        fdgdgdfg
+        
     }
 }
